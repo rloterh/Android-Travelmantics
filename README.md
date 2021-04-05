@@ -1,2 +1,2 @@
-# Android-Travelmantics
-init commit
+# Android-Travelmantics (Development In Progress!)
+
